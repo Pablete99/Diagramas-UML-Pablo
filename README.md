@@ -45,9 +45,7 @@ Los diagramas han sido elaborados siguiendo principios estándar de modelado UML
 ## 🛠 Formato
 
 Los diagramas están disponibles en formato:
-
 - PNG (visualización directa)
-- PDF (impresión o documentación formal)
 
 ---
 
